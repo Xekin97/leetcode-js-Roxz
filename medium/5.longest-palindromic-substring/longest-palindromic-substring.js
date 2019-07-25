@@ -11,7 +11,7 @@
 var longestPalindrome = function(s) {
     var arr = s.split('')
     return arr.reduce((acc, cur, index) => {
-        
+         
         var result = ''
         var odd = 0
         var even = 0
