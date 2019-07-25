@@ -10,5 +10,5 @@ A leetcode a day, keep the Front-End away.
 #### easy 58. length-of-last-word
 #### medium 2. Add Two Numbers 
 #### medium 3. longest-substring-without-repeating-characters
-#### medium 5. longest-palindroman-substring
+#### medium 5. longest-palindromic-substring
 
