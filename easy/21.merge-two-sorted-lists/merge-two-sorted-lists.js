@@ -1,8 +1,4 @@
-/*
- * @lc app=leetcode id=21 lang=javascript
- *
- * [21] Merge Two Sorted Lists
- */
+    
 /**
  * Definition for singly-linked list.
  * function ListNode(val) {
@@ -16,7 +12,7 @@
  * @return {ListNode}
  */
 var mergeTwoLists = function(l1, l2) {
-    var head = new ListNode(0)
+	var head = new ListNode(0)
     var self = head
     var arr = []
     while (l1 || l2) {
@@ -36,4 +32,3 @@ var mergeTwoLists = function(l1, l2) {
     }
     return head.next
 };
-
