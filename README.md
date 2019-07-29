@@ -16,4 +16,4 @@ A leetcode a day, keep the Front-End away.
 #### medium [2. add-two-numbers](https://github.com/ROXZalwaysWithMe/leetcode-js-Roxz/tree/master/easy/2.add-two-numbers/add-two-numbers.js)
 #### medium [3. longest-substring-without-repeating-characters](https://github.com/ROXZalwaysWithMe/leetcode-js-Roxz/tree/master/easy/3.longest-substring-without-repeating-characters/longest-substring-without-repeating-characters.js)
 #### medium [5. longest-palindromic-substring](https://github.com/ROXZalwaysWithMe/leetcode-js-Roxz/tree/master/easy/5.longest-palindromic-substring/longest-palindromic-substring.js)
-#### medium [113. path-sum-ii](https://github.com/ROXZalwaysWithMe/leetcode-js-Roxz/tree/master/easy/113.path-sum-ii/path-sum-ii.js)
+#### medium [113. path-sum-ii](https://github.com/ROXZalwaysWithMe/leetcode-js-Roxz/tree/master/medium/113.path-sum-ii/path-sum-ii.js)
