@@ -21,7 +21,7 @@ var minPathSum = function(grid) {
             if (i == m && j == n) continue
             var temp = grid[i][j]
             if (i == m) {
-                grid[i][j] = grid[i][j + 1] + temp
+                grid[i][j] = grid[i][j+1] + temp
             } else if (j == n) {
                 grid[i][j] = grid[i+1][j] + temp
             } else {
