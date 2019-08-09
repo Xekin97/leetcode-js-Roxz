@@ -7,7 +7,7 @@ A leetcode a day, keep the Front-End away.
 #### easy [13. roman-to-integer](https://github.com/ROXZalwaysWithMe/leetcode-js-Roxz/tree/master/easy/13.roman-to-integer)
 #### easy [14. longest-common-prefix](https://github.com/ROXZalwaysWithMe/leetcode-js-Roxz/tree/master/easy/14.longest-common-prefix)
 #### easy [20. valid-parentheses](https://github.com/ROXZalwaysWithMe/leetcode-js-Roxz/tree/master/easy/20.valid-parentheses)
-#### easy [21. merge-twp-sorted-lists](https://github.com/ROXZalwaysWithMe/leetcode-js-Roxz/tree/master/easy/21.merge-twp-sorted-lists)
+#### easy [21. merge-two-sorted-lists](https://github.com/ROXZalwaysWithMe/leetcode-js-Roxz/tree/master/easy/21.merge-two-sorted-lists)
 #### easy [26. remove-duplicates-from-sorted-array](https://github.com/ROXZalwaysWithMe/leetcode-js-Roxz/tree/master/easy/26.remove-duplicates-from-sorted-array)
 #### easy [27. remove-element](https://github.com/ROXZalwaysWithMe/leetcode-js-Roxz/tree/master/easy/27.remove-element/)
 #### easy [28. implement-str-str](https://github.com/ROXZalwaysWithMe/leetcode-js-Roxz/tree/master/easy/28.implement-str-str)
