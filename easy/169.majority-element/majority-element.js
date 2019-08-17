@@ -1,3 +1,8 @@
+/*
+ * @lc app=leetcode id=169 lang=javascript
+ *
+ * [169] Majority Element
+ */
 /**
  * @param {number[]} nums
  * @return {number}
