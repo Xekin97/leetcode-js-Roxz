@@ -1,7 +1,7 @@
 # leetcode-js-Roxz
 A leetcode a day, keep the Front-End away.
 
-*Number of problems solved: 39.*
+**Number of problems solved: 39.**
 
 Use `ctrl + F` to search questions.
 
