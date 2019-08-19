@@ -1,6 +1,8 @@
 # leetcode-js-Roxz
 A leetcode a day, keep the Front-End away.
 
+*Number of problems solved: 39.*
+
 Use `ctrl + F` to search questions.
 
 #### easy [1. two-sum](https://github.com/ROXZalwaysWithMe/leetcode-js-Roxz/tree/master/easy/1.two-sum)
