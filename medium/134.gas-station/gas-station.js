@@ -9,25 +9,16 @@
  * @return {number}
  */
 var canCompleteCircuit = function(gas, cost) {
-    /**
-     * Input: 
-     * gas  = [1,2,3,4,5]
-     * cost = [3,4,5,1,2]
-     */
-    var l = gas.length
-    for(var i = 0; i < l; i++) {
-        var tank = 0;
-        var complete = 1;
-        for(var j = 0; j < l; j++) {
-            tank += gas[(j+i)%l];
-            if(tank < cost[(j+i)%l]) {
-                complete = 0;
-                break;
-            }
-            else tank -= cost[(j+i)%l];
-        }
-        if(complete) return i;
+    var lSum = 0;
+    var rStart = null, rSum=0;
+    for(var i=0, l=gas.length; i<l; i++) {
+      if(rStart === null) rStart=i;
+      rSum += (gas[i]-cost[i]);
+      if(rSum < 0) {
+        lSum += rSum;
+        rSum = 0;
+        rStart=null;
+      }
     }
-    
-    return -1;
-};
+    return (lSum+rSum >=0)? rStart : -1;
+  };
