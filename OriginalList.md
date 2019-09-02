@@ -27,6 +27,7 @@
 #### easy [190. reverse-bits](https://github.com/ROXZalwaysWithMe/leetcode-js-Roxz/tree/master/easy/190.reverse-bits)
 #### easy [202. happy-number](https://github.com/ROXZalwaysWithMe/leetcode-js-Roxz/tree/master/easy/202.happy-number)
 #### easy [231. power-of-two](https://github.com/ROXZalwaysWithMe/leetcode-js-Roxz/tree/master/easy/231.power-of-two)
+
 #### medium [2. add-two-numbers](https://github.com/ROXZalwaysWithMe/leetcode-js-Roxz/tree/master/medium/2.add-two-numbers)
 #### medium [3. longest-substring-without-repeating-characters](https://github.com/ROXZalwaysWithMe/leetcode-js-Roxz/tree/master/medium/3.longest-substring-without-repeating-characters)
 #### medium [5. longest-palindromic-substring](https://github.com/ROXZalwaysWithMe/leetcode-js-Roxz/tree/master/medium/5.longest-palindromic-substring)
@@ -34,6 +35,12 @@
 #### medium [55. jump-game](https://github.com/ROXZalwaysWithMe/leetcode-js-Roxz/tree/master/medium/55.jump-game)
 #### medium [62. unique-paths](https://github.com/ROXZalwaysWithMe/leetcode-js-Roxz/tree/master/medium/62.unique-paths)
 #### medium [64. minimun-path-sum](https://github.com/ROXZalwaysWithMe/leetcode-js-Roxz/tree/master/medium/64.minimun-path-sum)
+#### medium [73. set-matrix-zeroes](https://github.com/ROXZalwaysWithMe/leetcode-js-Roxz/tree/master/medium/73.set-matrix-zeroes)
+#### medium [92. reverse-linked-list-II](https://github.com/ROXZalwaysWithMe/leetcode-js-Roxz/tree/master/medium/92.reverse-linked-list-II)
 #### medium [98. validate-binary-search-tree](https://github.com/ROXZalwaysWithMe/leetcode-js-Roxz/tree/master/medium/98.validate-binary-search-tree)
 #### medium [113. path-sum-ii](https://github.com/ROXZalwaysWithMe/leetcode-js-Roxz/tree/master/medium/113.path-sum-ii)
 #### medium [120. triangle](https://github.com/ROXZalwaysWithMe/leetcode-js-Roxz/tree/master/medium/120.triangle)
+#### medium [134. gas-station](https://github.com/ROXZalwaysWithMe/leetcode-js-Roxz/tree/master/medium/134.gas-station)
+#### medium [289. game-of-life](https://github.com/ROXZalwaysWithMe/leetcode-js-Roxz/tree/master/medium/289.game-of-life)
+
+#### hard [4. median-of-two-sorted-arrays](https://github.com/ROXZalwaysWithMe/leetcode-js-Roxz/tree/master/hard/4.median-of-two-sorted-arrays)
