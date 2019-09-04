@@ -20,6 +20,7 @@ var isNumber = function(s) {
 // 大佬的 有限状态机 DFA 解法
 var isNumber = function(s) {
     let state = 0, 
+        // 状态的对应 9 种输出值
         finals = [0,0,0,1,0,1,1,0,1],
         // 状态值 空值 +/- 0-9 . e other
         transfer = [[ 0, 1, 6, 2,-1,-1],
@@ -31,7 +32,7 @@ var isNumber = function(s) {
                     [ 8,-1, 6, 3, 4,-1],
                     [-1,-1, 5,-1,-1,-1],
                     [ 8,-1,-1,-1,-1,-1]], 
-        
+        // 管理
         make = c => {
             switch(c) {
                 case " ": return 0;
