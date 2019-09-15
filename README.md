@@ -3,8 +3,6 @@ A leetcode a day, keep the Front-End away.
 
 **Number of problems solved: 51.(not in time)**
 
-happy mid autumn!
-
 Use `ctrl + F` to search questions.
 
 | Easy | Medium | Hard |
